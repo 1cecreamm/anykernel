@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Morph-Limited by 1cecreamm
+kernel.string=Morph-Aurora by 1cecreamm & hanifardhani
 do.devicecheck=1
 do.modules=0
 do.systemless=1
