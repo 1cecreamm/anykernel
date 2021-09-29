@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Morph-Aurora by 1cecreamm & hanifardhani
+kernel.string=Morph by alien
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=platina
-device.name2=MI8Lite
-device.name3=mi8lite
-device.name4=8lite
-device.name5=
+device.name1=courbet
+device.name2=Mi 11 Lite 4G
+device.name3=courbet-user
+device.name4=courbet_user
+device.name5=courbetin
 supported.versions=
 supported.patchlevels=
 '; } # end properties
