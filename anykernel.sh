@@ -5,16 +5,16 @@
 # begin properties
 properties() { '
 kernel.string=Morph by alien
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=courbet
-device.name2=Mi 11 Lite 4G
-device.name3=courbet-user
-device.name4=courbet_user
-device.name5=courbetin
+device.name1=munch
+device.name2=munchin
+device.name3=MUNCH
+device.name4=MUNCHIN
+device.name5=
 supported.versions=
 supported.patchlevels=
 '; } # end properties
